@@ -1,0 +1,34 @@
+[HIMDBVersion]
+2.0
+[DATABASE_VERSION]
+"1.2" 
+[CURRENT_PROJECT]
+"v01" 
+[GENERAL_DATA]
+"ECXLABEL_LAST_FINDS_DATA" "" 
+[BREAKPOINTS]
+[OPEN_WORKSPACE_FILES]
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\include\common.h" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\include\typedef.h" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\include\variables.h" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\action.c" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\communication.c" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\initial.c" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\main.c" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\solenoid.c" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\system.c" 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\variables.c" 
+[WORKSPACE_FILE_STATES]
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\include\common.h" -8 -30 1059 539 1 1 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\include\typedef.h" 125 125 893 333 0 5 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\include\variables.h" 100 100 893 333 0 4 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\action.c" 50 50 893 330 0 2 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\communication.c" 100 100 943 220 0 9 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\initial.c" 25 25 943 243 0 6 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\main.c" 0 0 1059 518 0 0 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\solenoid.c" 25 25 918 315 0 7 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\system.c" 75 75 968 214 0 3 
+"D:\舒普模板机\工艺模板机\TASC447-GYMBJ\src\c\variables.c" 50 50 918 289 0 8 
+[LOADED_PROJECTS]
+"v01" 
+[END]
